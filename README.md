@@ -1,8 +1,8 @@
-#Fight Club
+# Fight Club
 
 Welcome everyone to the Fight Club!
 
-##How to get srtarted
+## How to get srtarted
 
 In order to enter the Fight Club, you must become a member by cloning this repository.
 After cloning the repo, open a command window withing the FightClub folder do this:
